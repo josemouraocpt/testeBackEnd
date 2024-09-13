@@ -47,7 +47,7 @@ Para rodar o teste do ServiceImpl utilize o comando:
 ### Remover um produto por ID
 - http://localhost:8080/produtos/{idProduto}
 - HTTP Method DELETE
-![Retorno da chamada HTTP para remover um produto]("./docAssets/DELETE.png")
+![Retorno da chamada HTTP para remover um produto]("../docAssets/DELETE.png")
 
 
 - Preparado por: **José Mourão Costa Pinto Teles**
