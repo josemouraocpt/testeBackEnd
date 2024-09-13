@@ -27,27 +27,27 @@ Para rodar o teste do ServiceImpl utilize o comando:
 ### Buscar todos os produtos
 - http://localhost:8080/produtos
 - HTTP Method GET
-![Retorno da chamada HTTP para buscar todos os produtos]("docAssets/CREATE.png")
+![Retorno da chamada HTTP para buscar todos os produtos](docAssets/CREATE.png)
 
 ### Criar um novo produto
 - http://localhost:8080/produtos
 - HTTP Method PUT
-![Retorno da chamada HTTP para criar novo produto]("docAssets/CREATE.png")
+![Retorno da chamada HTTP para criar novo produto](docAssets/CREATE.png)
 
 ### Procurar um produto por ID
 - http://localhost:8080/produtos/{idProduto}
 - HTTP Method GET
-![Retorno da chamada HTTP para buscar um produto]("docAssets/CREATE.png")
+![Retorno da chamada HTTP para buscar um produto](docAssets/CREATE.png)
 
 ### Editar um produto por ID
 - http://localhost:8080/produtos/{idProduto}
 - HTTP Method PUT
-![Retorno da chamada HTTP para editar um produto]("docAssets/CREATE.png)
+![Retorno da chamada HTTP para editar um produto](docAssets/CREATE.png)
 
 ### Remover um produto por ID
 - http://localhost:8080/produtos/{idProduto}
 - HTTP Method DELETE
-![Retorno da chamada HTTP para remover um produto]("docAssets/CREATE.png")
+![Retorno da chamada HTTP para remover um produto](docAssets/CREATE.png)
 
 
 - Preparado por: **José Mourão Costa Pinto Teles**
